@@ -6,7 +6,7 @@
 
 # Tugas 2 Laravel - Pemrograman Web 2
 
-### Tugas ini mendemonstrasikan implementasi dasar framework Laravel meliputi **Migration**, **Seeder**, **Eloquent Model**, **Controller**, dan **Blade View** dengan studi kasus daftar koleksi buku.
+Tugas ini mendemonstrasikan implementasi dasar framework Laravel meliputi **Migration**, **Seeder**, **Eloquent Model**, **Controller**, dan **Blade View** dengan studi kasus daftar koleksi buku.
 
 ## 🛠️ Prasyarat
 - PHP >= 8.2
